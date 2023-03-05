@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Mern/Java-SpringBoot/Golang
+- 🔭 I’m currently working on Golang/Rust
+- - 🔭 Experienced with Java/Node/Docker/Kubernetes/Devops
 - 🌱 Always a Learner
 - 💬 Ask me about System Design ,Concurrency 
 - 📫 How to reach me: mail me at shubhamdixit863@gmail.com
